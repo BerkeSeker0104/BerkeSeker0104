@@ -12,10 +12,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkeSeker0104&show_icons=true&theme=radical" alt="Berke's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkeSeker0104&layout=compact&theme=radical" alt="Berke's Top Languages" width="48%"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=BerkeSeker0104&show_icons=true&theme=radical" width="400"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkeSeker0104&layout=compact&theme=radical" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
