@@ -20,7 +20,7 @@ Focused on clean architecture, performance, and real-world business impact.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <table>
@@ -37,7 +37,7 @@ Focused on clean architecture, performance, and real-world business impact.
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -54,7 +54,7 @@ Focused on clean architecture, performance, and real-world business impact.
 
 ---
 
-### 🔥 GitHub Streak
+###  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BerkeSeker0104&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -62,7 +62,7 @@ Focused on clean architecture, performance, and real-world business impact.
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 
 <p align="left">
   <a href="mailto:berkeseker@becodestudio.com">
