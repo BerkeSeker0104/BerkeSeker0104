@@ -4,7 +4,7 @@
 
 <p align="center">
    Full Stack Developer specializing in SaaS, Web & Mobile Applications  
-   Founder of **BeCode Studio** — a software studio delivering scalable digital products worldwide  
+   Founder of BeCode Studio — a software studio delivering scalable digital products worldwide  
 
 I design and build production-ready systems including:
 
