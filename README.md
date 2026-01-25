@@ -3,9 +3,19 @@
 ---
 
 <p align="center">
-  🎓 A 3rd-year Statistics student at Yıldız Technical University <br/>
-  💻 Flutter & .NET Developer building mobile apps, e-commerce platforms, and web-based solutions <br/>
-  🚀 Founder of a freelance software company offering modern tech services worldwide
+   Full Stack Developer specializing in SaaS, Web & Mobile Applications  
+   Founder of **BeCode Studio** — a software studio delivering scalable digital products worldwide  
+
+I design and build production-ready systems including:
+
+• SaaS platforms & admin dashboards  
+• Mobile applications (Flutter)  
+• Web applications (React / Next.js)  
+• Backend systems (.NET, Node.js)  
+• E-commerce platforms  
+• AI-powered tools  
+
+Focused on clean architecture, performance, and real-world business impact.
 </p>
 
 ---
