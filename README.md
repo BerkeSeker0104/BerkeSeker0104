@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Full-Stack Developer</b> &nbsp;•&nbsp; <b>Founder @ <a href="https://www.becodestudio.com/en">BeCode Studio</a></b><br/>
-  Building scalable SaaS, web & mobile products from Istanbul 🇹🇷
 </p>
 
 <p align="center">
