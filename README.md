@@ -19,23 +19,23 @@
 
 ---
 
-### 🚀 About
+### About
 
 I'm the founder of **[BeCode Studio](https://www.becodestudio.com/en)** — a software studio delivering production-grade web, mobile, and AI products to clients worldwide. I lead engineering end-to-end: architecture, implementation, deployment, and long-term maintenance.
 
 **What I build:**
-- 🧩 SaaS platforms & admin dashboards
-- 📱 Cross-platform mobile apps (Flutter, React Native, Swift)
-- 🌐 Web applications (Next.js, React)
-- ⚙️ Backend systems & REST/GraphQL APIs (Node.js, .NET, FastAPI)
-- 🤖 AI-powered tools & LLM integrations
-- 🛒 E-commerce platforms
+- SaaS platforms & admin dashboards
+- Cross-platform mobile apps (Flutter, React Native, Swift)
+- Web applications (Next.js, React)
+- Backend systems & REST/GraphQL APIs (Node.js, .NET, FastAPI)
+- AI-powered tools & LLM integrations
+- E-commerce platforms
 
 > Focused on **clean architecture**, **performance**, and **measurable business impact**.
 
 ---
 
-### 💼 Featured Work @ BeCode Studio
+### Featured Work @ BeCode Studio
 
 | Project | Description | Stack |
 |---|---|---|
@@ -45,11 +45,11 @@ I'm the founder of **[BeCode Studio](https://www.becodestudio.com/en)** — a so
 | **[Classhopper](https://classhopper.io/)** | Education-tech platform | Next.js · React |
 | **[Clubby](https://www.clubby.social/)** | Social platform for community management | React Native · Node.js |
 
-🔗 More case studies → **[becodestudio.com/en/projects](https://www.becodestudio.com/en/projects)**
+More case studies → **[becodestudio.com/en/projects](https://www.becodestudio.com/en/projects)**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -93,7 +93,7 @@ I'm the founder of **[BeCode Studio](https://www.becodestudio.com/en)** — a so
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BerkeSeker0104&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -106,15 +106,13 @@ I'm the founder of **[BeCode Studio](https://www.becodestudio.com/en)** — a so
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
 I'm open to collaborations, freelance projects, and partnerships through **BeCode Studio**.
 
 <p>
-  🌐 <a href="https://www.becodestudio.com/en">becodestudio.com</a> &nbsp;•&nbsp;
-  ✉️ <a href="mailto:hello@becodestudio.com">hello@becodestudio.com</a> &nbsp;•&nbsp;
-  💼 <a href="https://www.linkedin.com/in/berkeseker">LinkedIn</a> &nbsp;•&nbsp;
-  🏢 <a href="https://www.linkedin.com/company/becode-studio">BeCode Studio on LinkedIn</a>
+  <a href="https://www.becodestudio.com/en">becodestudio.com</a> &nbsp;•&nbsp;
+  <a href="mailto:hello@becodestudio.com">hello@becodestudio.com</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/berkeseker">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/company/becode-studio">BeCode Studio on LinkedIn</a>
 </p>
-
-<p align="center"><i>Built with ❤️ in Istanbul</i></p>
